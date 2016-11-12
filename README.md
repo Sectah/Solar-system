@@ -1,4 +1,4 @@
-#Ray tracer in C++
+#Solar System in C++ using legacy OpenGL
 
 ##How to run in Visual Studio
 
