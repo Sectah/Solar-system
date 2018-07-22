@@ -1,6 +1,6 @@
-#Solar System in C++ using legacy OpenGL
+# Solar System in C++ using legacy OpenGL
 
-##How to run in Visual Studio
+## How to run in Visual Studio
 
 1. Open SolarSystem.vcxproj
 
@@ -9,8 +9,8 @@
 3. Look at console for interaction instructions
 
 
-##Example
+## Example
 
-#####Solar System with labels on and orbital trails
+##### Solar System with labels on and orbital trails
 
 ![SolarSystem](http://i.imgur.com/iY0HtjV.png)
